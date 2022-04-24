@@ -1,0 +1,12 @@
+Nodejs 
+
+-modules are libraries that can be used in a Nodejs application to include a set of functions.
+-to include a module in nodejs application, use require() function with parentheses containing the name of the module
+-module types
+    http create server
+    util utility functions
+    fs for handling file I/O ops
+    url for parsing url
+    querystring for parsing query string
+    stream for parsing streaming data
+    zlib for compressing and decompressing file data
